@@ -1,4 +1,7 @@
-# python-challenges #
+# Python Challenges #
+
+Welcome to this Python Challenges repositories.
+This repositories was created from the French Python Discord Community (https://discord.gg/NWQvTeX)
 
 [English](#english)
 
