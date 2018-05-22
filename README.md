@@ -56,6 +56,8 @@ Le nom des fichiers ou dossiers DOIVENT être formatés comme ci-dessous :
 Le nom du challenge est en minuscule, avec chaque mot séparé par un tiret du bas.
 Le nom de chaque fichier commence avec la numérotation et se termine avec soit -instructions soit -solution.
 
+IMPORTANT : Ne mettre aucun accents dans les noms de fichier ou de dossier !
+
 ## Structure des instructions ##
 Each challenge should be formated like this:
 # 01 - Nom du challenge #
