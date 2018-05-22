@@ -1,5 +1,8 @@
 # python-challenges #
 
+#english
+#french
+
 # English #
 A repo with Python challenges in different languages to practice your Python skills.
 
