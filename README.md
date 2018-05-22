@@ -10,11 +10,11 @@ Then you can find inside each language separate folders for each level of diffic
 ## Nomenclature ##
 Each challenge is numeroted (01, 02, 03...).
 You can then find a first markdown file containing the instructions for the challenges.
-And then a python file or folder containing the solution to the challenge.
+And then a python folder containing all the possible solutions to the challenge.
 
-The name of the files or folders MUST be formated like so:
+The name of the files / folders MUST be formated like so:
 01-name_of_the_challenge-instructions.md
-01-name_of_the_challenge-solution.py
+01-name_of_the_challenge-solution
 
 The name of the challenge is formated in lowercase, with each word being separated by underscores.
 The name of the file start with the numbering and ends with either -instructions or -solution.
@@ -47,11 +47,11 @@ Repo qui contient des challenges Python dans différentes langues pour pratiquer
 ## Nomenclature ##
 Chaque challenge est numéroté (01, 02, 03...).
 Vous trouverez ensuite un premier fichier en markdown qui contient les instructions pour le challenge.
-Et ensuite un fichier python ou un dossier qui contient la solution au challenge.
+Et ensuite un dossier qui contient les solutions possibles au challenge.
 
 Le nom des fichiers ou dossiers DOIVENT être formatés comme ci-dessous :
 01-nom_du_challenge-instructions.md
-01-nom_du_challenge-solution.py
+01-nom_du_challenge-solution
 
 Le nom du challenge est en minuscule, avec chaque mot séparé par un tiret du bas.
 Le nom de chaque fichier commence avec la numérotation et se termine avec soit -instructions soit -solution.
