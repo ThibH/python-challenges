@@ -8,16 +8,24 @@ At the root of the repo, you have a folder for each language.
 Then you can find inside each language separate folders for each level of difficulty.
 
 ## Nomenclature ##
-Each challenge is numeroted (01, 02, 03...).
-You can then find a first markdown file containing the instructions for the challenges.
-And then a python folder containing all the possible solutions to the challenge.
-
-The name of the files / folders MUST be formated like so:
-01-name_of_the_challenge-instructions.md
-01-name_of_the_challenge-solution
+Each challenge is numbered (01, 02, 03...) and reside inside a folder.
+The name of the folder MUST be formated like so:
+01-name_of_the_challenge
 
 The name of the challenge is formated in lowercase, with each word being separated by underscores.
-The name of the file start with the numbering and ends with either -instructions or -solution.
+
+Inside the challenge's folder, you can find a file named "instructions.md" in markdown format.
+This file contains the instructions for the challenge.
+
+Then you can find a "solutions" folder containing all possible solutions.
+
+Each solution must be put inside a numbered folder like so:
+solution_01
+solution_02
+...
+solution_23
+solution_24
+and so on.
 
 ## Instructions structure ##
 Each challenge should be formated like this:
@@ -45,16 +53,22 @@ Repo qui contient des challenges Python dans différentes langues pour pratiquer
 À l'intérieur du dossier pour chaque langue vous trouverez ensuite des dossiers pour chaque niveau de difficulté.
 
 ## Nomenclature ##
-Chaque challenge est numéroté (01, 02, 03...).
-Vous trouverez ensuite un premier fichier en markdown qui contient les instructions pour le challenge.
-Et ensuite un dossier qui contient les solutions possibles au challenge.
+Chaque challenge est numéroté et est contenu dans un dossier.
+Le nom du dossier DOIT être formatté comme suit :
+01-nom_du_challenge
 
-Le nom des fichiers ou dossiers DOIVENT être formatés comme ci-dessous :
-01-nom_du_challenge-instructions.md
-01-nom_du_challenge-solution
+Le nom du challenge est en minuscule et séparé par des tirets du bas.
+Dans le dossier du challenge, vous trouverez un fichier nommé "instructions.md" au format markdown.
+Ce fichier contient les instructions pour le challenge.
 
-Le nom du challenge est en minuscule, avec chaque mot séparé par un tiret du bas.
-Le nom de chaque fichier commence avec la numérotation et se termine avec soit -instructions soit -solution.
+Vous trouverez ensuite un dossier "solutions" qui contient toutes les solutions possibles au challenge.
+Chaque solution proposée doit se retrouver dans un dossier numéroté comme suit :
+solution_01
+solution_02
+...
+solution_23
+solution_24
+et ainsi de suite.
 
 IMPORTANT : Ne mettre aucun accents dans les noms de fichier ou de dossier !
 
